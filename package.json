@@ -1,0 +1,25 @@
+{
+  "name": "world-cup-2026-prediction",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch:squads": "node scripts/fetch_squads.mjs",
+    "fetch:player-zh": "node scripts/fetch_player_chinese_names.mjs",
+    "fetch:staff": "node scripts/fetch_team_staff.mjs",
+    "fetch:referees": "node scripts/fetch_referees.mjs",
+    "update:referee-stats": "node scripts/update_referee_tournament_stats.mjs",
+    "fetch:rankings": "node scripts/fetch_fifa_rankings.mjs",
+    "sync:results": "node scripts/sync_results_and_standings.mjs",
+    "build:context": "node scripts/build_match_context.mjs",
+    "fetch:weather": "node scripts/fetch_weather.mjs",
+    "fetch:odds": "node scripts/fetch_market_odds.mjs",
+    "quality": "node scripts/build_data_quality_report.mjs",
+    "report": "node scripts/build_prediction_report.mjs",
+    "refresh:matchday": "npm run sync:results && npm run fetch:referees && npm run update:referee-stats && npm run build:context && npm run fetch:weather && node scripts/create_bilingual_world_cup_tables.mjs && npm run build",
+    "validate": "node scripts/validate_data.mjs",
+    "analyze": "node scripts/analyze_completed_matches.mjs",
+    "predict": "node scripts/generate_predictions.mjs",
+    "build": "npm run validate && npm run analyze && npm run predict && npm run quality && npm run report"
+  }
+}

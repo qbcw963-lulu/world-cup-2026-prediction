@@ -1,0 +1,8 @@
+team,player_name,event_type,start_match_id,end_match_id,availability,estimated_xg_impact,reason,source_url,verified_at,status
+South Africa,Themba Zwane,suspension,25,54,unavailable,-0.08,Direct red card suspension extended to three matches,https://www.the-sun.com/sport/16528356/themba-zwane-south-africa-ban-world-cup/,2026-06-18,reported_requires_fifa_document
+South Africa,Sphephelo Sithole,suspension,25,25,unavailable,-0.06,Direct red card in opening match,https://www.the-sun.com/sport/16528356/themba-zwane-south-africa-ban-world-cup/,2026-06-18,reported
+Mexico,César Montes,suspension,28,28,unavailable,-0.06,Direct red card in opening match,https://www.the-sun.com/sport/16528356/themba-zwane-south-africa-ban-world-cup/,2026-06-18,reported
+Qatar,Tarek Salman,suspension,27,27,unavailable,-0.05,Carried tournament suspension includes matchday two,https://en.wikipedia.org/wiki/2026_FIFA_World_Cup,2026-06-18,secondary_source
+United States,Christian Pulisic,injury_monitoring,29,59,questionable,0,Recovering from calf injury; availability requires matchday confirmation,https://nypost.com/2026/06/17/sports/usmnt-players-embracing-longer-world-cup-layoff-after-exhausting-club-seasons/,2026-06-18,reported_monitoring
+England,Harry Kane,injury_monitoring,46,67,questionable,0,Left calf strapping observed after Croatia match; no confirmed absence,https://www.thesun.co.uk/sport/39452973/harry-kane-england-world-cup-injury/,2026-06-18,reported_monitoring
+England,Declan Rice,injury_monitoring,46,67,questionable,0,Substituted after discomfort described as precautionary,https://www.thesun.co.uk/sport/39452973/harry-kane-england-world-cup-injury/,2026-06-18,reported_monitoring

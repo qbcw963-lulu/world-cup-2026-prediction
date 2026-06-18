@@ -1,0 +1,17 @@
+venue,city,country,latitude,longitude,altitude_m,timezone,roof_type,climate_notes
+Estadio Azteca,Mexico City,Mexico,19.3029,-99.1505,2240,America/Mexico_City,open,high_altitude
+Estadio Akron,Guadalajara,Mexico,20.6818,-103.4627,1560,America/Mexico_City,open,moderate_altitude
+Estadio BBVA,Guadalupe,Mexico,25.6693,-100.2446,540,America/Monterrey,open,hot_humid
+BMO Field,Toronto,Canada,43.6332,-79.4186,76,America/Toronto,open,lake_influenced
+BC Place,Vancouver,Canada,49.2768,-123.1119,15,America/Vancouver,retractable_roof,controlled_if_closed
+SoFi Stadium,Inglewood,United States,33.9535,-118.3392,40,America/Los_Angeles,covered_open_sides,partly_controlled
+Levi's Stadium,Santa Clara,United States,37.4030,-121.9700,12,America/Los_Angeles,open,warm_dry
+MetLife Stadium,East Rutherford,United States,40.8135,-74.0745,2,America/New_York,open,humid_summer
+Gillette Stadium,Foxborough,United States,42.0909,-71.2643,90,America/New_York,open,variable_summer
+NRG Stadium,Houston,United States,29.6847,-95.4107,15,America/Chicago,retractable_roof,hot_humid
+AT&T Stadium,Arlington,United States,32.7473,-97.0945,170,America/Chicago,retractable_roof,controlled_if_closed
+Lincoln Financial Field,Philadelphia,United States,39.9008,-75.1675,6,America/New_York,open,hot_humid
+Mercedes-Benz Stadium,Atlanta,United States,33.7554,-84.4008,310,America/New_York,retractable_roof,controlled_if_closed
+Lumen Field,Seattle,United States,47.5952,-122.3316,8,America/Los_Angeles,partial_roof,mild_variable
+Hard Rock Stadium,Miami Gardens,United States,25.9580,-80.2389,2,America/New_York,canopy,hot_humid_storm_risk
+Arrowhead Stadium,Kansas City,United States,39.0489,-94.4839,260,America/Chicago,open,hot_storm_risk

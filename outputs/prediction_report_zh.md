@@ -1,0 +1,347 @@
+# 2026 世界杯后续赛事综合预测
+
+生成时间：2026-06-18T05:44:45.004Z
+
+> 概率模型不是确定答案；让球线为模型生成线，并非中国体育彩票官方让球线。
+
+| 场次 | 比赛 | 胜/平/负概率 | 比分 | 让球预测 | 半全场 | 数据完整度 |
+|---:|---|---|---|---|---|---:|
+| 25 | Czechia—South Africa | 50.0% / 26.8% / 23.2% | 1-0 | 主队-1：让负 | 胜/胜 | 66.7% |
+| 26 | Switzerland—Bosnia and Herzegovina | 62.7% / 22.2% / 15.1% | 2-0 | 主队-1：让胜 | 胜/胜 | 83.3% |
+| 27 | Canada—Qatar | 54.7% / 24.6% / 20.6% | 1-0 | 主队-1：让负 | 胜/胜 | 83.3% |
+| 28 | Mexico—South Korea | 44.8% / 26.9% / 28.3% | 1-0 | 主队-1：让负 | 胜/胜 | 83.3% |
+| 29 | United States—Australia | 45.8% / 26.6% / 27.6% | 1-0 | 主队-1：让负 | 胜/胜 | 83.3% |
+| 30 | Scotland—Morocco | 19.4% / 24.7% / 55.9% | 0-1 | 主队+1：让胜 | 负/负 | 83.3% |
+| 31 | Brazil—Haiti | 76.6% / 15.4% / 7.9% | 2-0 | 主队-1：让胜 | 胜/胜 | 83.3% |
+| 32 | Türkiye—Paraguay | 44.6% / 26.9% / 28.4% | 1-0 | 主队-1：让负 | 胜/胜 | 66.7% |
+| 33 | Netherlands—Sweden | 53.5% / 25.7% / 20.8% | 1-0 | 主队-1：让负 | 胜/胜 | 83.3% |
+| 34 | Germany—Ivory Coast | 47.7% / 26.9% / 25.4% | 1-0 | 主队-1：让负 | 胜/胜 | 83.3% |
+| 35 | Ecuador—Curaçao | 68.0% / 19.6% / 12.3% | 2-0 | 主队-1：让胜 | 胜/胜 | 83.3% |
+| 36 | Tunisia—Japan | 23.9% / 26.3% / 49.8% | 0-1 | 主队+1：让胜 | 负/负 | 83.3% |
+| 37 | Spain—Saudi Arabia | 69.7% / 19.1% / 11.2% | 2-0 | 主队-1：让胜 | 胜/胜 | 66.7% |
+| 38 | Belgium—Iran | 40.9% / 27.7% / 31.4% | 1-0 | 主队0：让胜 | 胜/胜 | 66.7% |
+| 39 | Uruguay—Cabo Verde | 65.5% / 21.2% / 13.2% | 2-0 | 主队-1：让胜 | 胜/胜 | 66.7% |
+| 40 | New Zealand—Egypt | 13.0% / 20.7% / 66.3% | 0-2 | 主队+1：让负 | 负/负 | 66.7% |
+| 41 | Argentina—Austria | 50.6% / 26.4% / 23.0% | 1-0 | 主队-1：让负 | 胜/胜 | 66.7% |
+| 42 | France—Iraq | 65.5% / 20.9% / 13.6% | 2-0 | 主队-1：让胜 | 胜/胜 | 66.7% |
+| 43 | Norway—Senegal | 26.8% / 27.0% / 46.2% | 0-1 | 主队+1：让胜 | 负/负 | 66.7% |
+| 44 | Jordan—Algeria | 20.7% / 24.6% / 54.7% | 0-1 | 主队+1：让胜 | 负/负 | 66.7% |
+| 45 | Portugal—Uzbekistan | 62.0% / 22.6% / 15.5% | 1-0 | 主队-1：让胜 | 胜/胜 | 66.7% |
+| 46 | England—Ghana | 73.3% / 17.3% / 9.3% | 2-0 | 主队-1：让胜 | 胜/胜 | 66.7% |
+| 47 | Panama—Croatia | 26.1% / 26.4% / 47.4% | 0-1 | 主队+1：让胜 | 负/负 | 66.7% |
+| 48 | Colombia—DR Congo | 54.2% / 25.2% / 20.6% | 1-0 | 主队-1：让负 | 胜/胜 | 66.7% |
+| 49 | Switzerland—Canada | 40.8% / 27.7% / 31.4% | 1-0 | 主队0：让胜 | 胜/胜 | 66.7% |
+| 50 | Bosnia and Herzegovina—Qatar | 31.1% / 27.8% / 41.1% | 0-1 | 主队0：让负 | 负/负 | 66.7% |
+| 51 | Morocco—Haiti | 75.8% / 15.9% / 8.3% | 2-0 | 主队-1：让胜 | 胜/胜 | 66.7% |
+| 52 | Scotland—Brazil | 18.4% / 24.6% / 57.0% | 0-1 | 主队+1：让胜 | 负/负 | 66.7% |
+| 53 | South Africa—South Korea | 17.9% / 25.1% / 57.0% | 0-1 | 主队+1：让胜 | 负/负 | 66.7% |
+| 54 | Czechia—Mexico | 23.6% / 26.1% / 50.3% | 0-1 | 主队+1：让胜 | 负/负 | 66.7% |
+| 55 | Curaçao—Ivory Coast | 15.2% / 22.0% / 62.8% | 0-2 | 主队+1：让负 | 负/负 | 66.7% |
+| 56 | Ecuador—Germany | 29.6% / 27.5% / 43.0% | 0-1 | 主队0：让负 | 负/负 | 66.7% |
+| 57 | Tunisia—Netherlands | 19.0% / 24.1% / 56.9% | 0-1 | 主队+1：让胜 | 负/负 | 66.7% |
+| 58 | Japan—Sweden | 46.9% / 27.0% / 26.1% | 1-0 | 主队-1：让负 | 胜/胜 | 66.7% |
+| 59 | Türkiye—United States | 35.0% / 27.9% / 37.0% | 0-1 | 主队0：让负 | 负/负 | 66.7% |
+| 60 | Paraguay—Australia | 30.5% / 27.6% / 41.9% | 0-1 | 主队0：让负 | 负/负 | 66.7% |
+| 61 | Norway—France | 22.3% / 26.0% / 51.6% | 0-1 | 主队+1：让胜 | 负/负 | 66.7% |
+| 62 | Senegal—Iraq | 59.6% / 23.1% / 17.4% | 1-0 | 主队-1：让负 | 胜/胜 | 66.7% |
+| 63 | Cabo Verde—Saudi Arabia | 32.2% / 28.2% / 39.5% | 0-1 | 主队0：让负 | 负/负 | 66.7% |
+| 64 | Uruguay—Spain | 28.5% / 27.7% / 43.8% | 0-1 | 主队+1：让胜 | 负/负 | 66.7% |
+| 65 | New Zealand—Belgium | 8.7% / 16.4% / 74.9% | 0-2 | 主队+1：让负 | 负/负 | 66.7% |
+| 66 | Egypt—Iran | 32.1% / 27.8% / 40.1% | 0-1 | 主队0：让负 | 负/负 | 66.7% |
+| 67 | Panama—England | 22.4% / 25.6% / 51.9% | 0-1 | 主队+1：让胜 | 负/负 | 66.7% |
+| 68 | Croatia—Ghana | 71.7% / 18.3% / 10.0% | 2-0 | 主队-1：让胜 | 胜/胜 | 66.7% |
+| 69 | Colombia—Portugal | 30.3% / 28.2% / 41.5% | 0-1 | 主队0：让负 | 负/负 | 66.7% |
+| 70 | DR Congo—Uzbekistan | 36.5% / 27.8% / 35.7% | 1-0 | 主队0：让胜 | 胜/胜 | 66.7% |
+| 71 | Algeria—Austria | 33.7% / 27.9% / 38.4% | 0-1 | 主队0：让负 | 负/负 | 66.7% |
+| 72 | Jordan—Argentina | 10.1% / 18.4% / 71.5% | 0-2 | 主队+1：让负 | 负/负 | 66.7% |
+
+## 逐场主要因素
+
+### 第25场 Czechia—South Africa
+
+- 结论：主胜，参考比分 1-0。
+- 主要因素：FIFA排名强度差修正=+150；South Africa伤停/停赛修正-0.140；休息与旅行主队修正-0.007；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第26场 Switzerland—Bosnia and Herzegovina
+
+- 结论：主胜，参考比分 2-0。
+- 主要因素：FIFA排名强度差修正=+337；休息与旅行主队修正0.030；裁判=João Pinheiro；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判历史量化样本待补；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第27场 Canada—Qatar
+
+- 结论：主胜，参考比分 1-0。
+- 主要因素：FIFA排名强度差修正=+195；Canada东道主优势；Qatar伤停/停赛修正-0.050；休息与旅行主队修正-0.015；裁判=Cristián Garay；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判历史量化样本待补；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第28场 Mexico—South Korea
+
+- 结论：主胜，参考比分 1-0。
+- 主要因素：FIFA排名强度差修正=+83；Mexico东道主优势；Mexico伤停/停赛修正-0.060；休息与旅行主队修正-0.003；裁判=Gustavo Tejera；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判历史量化样本待补；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第29场 United States—Australia
+
+- 结论：主胜，参考比分 1-0。
+- 主要因素：FIFA排名强度差修正=+75；United States东道主优势；休息与旅行主队修正0.010；裁判=Felix Zwayer；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判历史量化样本待补；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第30场 Scotland—Morocco
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-262；休息与旅行主队修正0.004；裁判=Ilgiz Tantashev；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判历史量化样本待补；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第31场 Brazil—Haiti
+
+- 结论：主胜，参考比分 2-0。
+- 主要因素：FIFA排名强度差修正=+563；休息与旅行主队修正0.004；裁判=Alejandro Hernández Hernández；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判历史量化样本待补；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第32场 Türkiye—Paraguay
+
+- 结论：主胜，参考比分 1-0。
+- 主要因素：FIFA排名强度差修正=+143；休息与旅行主队修正-0.042；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第33场 Netherlands—Sweden
+
+- 结论：主胜，参考比分 1-0。
+- 主要因素：FIFA排名强度差修正=+225；休息与旅行主队修正0.004；天气压低总进球-0.060；裁判=Michael Oliver；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判历史量化样本待补；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第34场 Germany—Ivory Coast
+
+- 结论：主胜，参考比分 1-0。
+- 主要因素：FIFA排名强度差修正=+173；休息与旅行主队修正-0.023；裁判=Juan Gabriel Benítez；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判历史量化样本待补；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第35场 Ecuador—Curaçao
+
+- 结论：主胜，参考比分 2-0。
+- 主要因素：FIFA排名强度差修正=+435；休息与旅行主队修正-0.009；裁判=Ma Ning；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判历史量化样本待补；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第36场 Tunisia—Japan
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-203；休息与旅行主队修正0.013；天气压低总进球-0.050；裁判=István Kovács；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判历史量化样本待补；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第37场 Spain—Saudi Arabia
+
+- 结论：主胜，参考比分 2-0。
+- 主要因素：FIFA排名强度差修正=+443；休息与旅行主队修正0.014；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第38场 Belgium—Iran
+
+- 结论：主胜，参考比分 1-0。
+- 主要因素：FIFA排名强度差修正=+82；休息与旅行主队修正-0.023；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第39场 Uruguay—Cabo Verde
+
+- 结论：主胜，参考比分 2-0。
+- 主要因素：FIFA排名强度差修正=+383；休息与旅行主队修正0.014；天气压低总进球-0.060；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第40场 New Zealand—Egypt
+
+- 结论：客胜，参考比分 0-2。
+- 主要因素：FIFA排名强度差修正=-390；休息与旅行主队修正-0.023；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第41场 Argentina—Austria
+
+- 结论：主胜，参考比分 1-0。
+- 主要因素：FIFA排名强度差修正=+172；休息与旅行主队修正0.039；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第42场 France—Iraq
+
+- 结论：主胜，参考比分 2-0。
+- 主要因素：FIFA排名强度差修正=+405；休息与旅行主队修正0.004；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第43场 Norway—Senegal
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-120；休息与旅行主队修正-0.004；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第44场 Jordan—Algeria
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-263；休息与旅行主队修正0.021；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第45场 Portugal—Uzbekistan
+
+- 结论：主胜，参考比分 1-0。
+- 主要因素：FIFA排名强度差修正=+337；休息与旅行主队修正0.027；天气压低总进球-0.060；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第46场 England—Ghana
+
+- 结论：主胜，参考比分 2-0。
+- 主要因素：FIFA排名强度差修正=+518；休息与旅行主队修正-0.027；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第47场 Panama—Croatia
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-172；休息与旅行主队修正0.029；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第48场 Colombia—DR Congo
+
+- 结论：主胜，参考比分 1-0。
+- 主要因素：FIFA排名强度差修正=+247；休息与旅行主队修正0.003；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第49场 Switzerland—Canada
+
+- 结论：主胜，参考比分 1-0。
+- 主要因素：FIFA排名强度差修正=+82；休息与旅行主队修正-0.024；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第50场 Bosnia and Herzegovina—Qatar
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-60；休息与旅行主队修正-0.018；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第51场 Morocco—Haiti
+
+- 结论：主胜，参考比分 2-0。
+- 主要因素：FIFA排名强度差修正=+555；休息与旅行主队修正-0.005；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第52场 Scotland—Brazil
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-270；休息与旅行主队修正-0.004；天气压低总进球-0.060；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第53场 South Africa—South Korea
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-262；South Africa伤停/停赛修正-0.080；休息与旅行主队修正-0.011；天气压低总进球-0.100；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第54场 Czechia—Mexico
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-195；休息与旅行主队修正-0.020；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第55场 Curaçao—Ivory Coast
+
+- 结论：客胜，参考比分 0-2。
+- 主要因素：FIFA排名强度差修正=-360；休息与旅行主队修正-0.019；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第56场 Ecuador—Germany
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-98；休息与旅行主队修正-0.021；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第57场 Tunisia—Netherlands
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-278；休息与旅行主队修正-0.015；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第58场 Japan—Sweden
+
+- 结论：主胜，参考比分 1-0。
+- 主要因素：FIFA排名强度差修正=+150；休息与旅行主队修正-0.014；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第59场 Türkiye—United States
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-37；休息与旅行主队修正0.011；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第60场 Paraguay—Australia
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-105；休息与旅行主队修正0.012；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第61场 Norway—France
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-210；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第62场 Senegal—Iraq
+
+- 结论：主胜，参考比分 1-0。
+- 主要因素：FIFA排名强度差修正=+315；休息与旅行主队修正-0.002；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第63场 Cabo Verde—Saudi Arabia
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-45；休息与旅行主队修正-0.010；天气压低总进球-0.060；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第64场 Uruguay—Spain
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-105；休息与旅行主队修正-0.005；天气压低总进球-0.050；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第65场 New Zealand—Belgium
+
+- 结论：客胜，参考比分 0-2。
+- 主要因素：FIFA排名强度差修正=-540；休息与旅行主队修正0.022；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第66场 Egypt—Iran
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-68；休息与旅行主队修正0.017；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第67场 Panama—England
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-225；休息与旅行主队修正-0.006；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第68场 Croatia—Ghana
+
+- 结论：主胜，参考比分 2-0。
+- 主要因素：FIFA排名强度差修正=+465；休息与旅行主队修正-0.004；天气压低总进球-0.060；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第69场 Colombia—Portugal
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-60；休息与旅行主队修正-0.019；天气压低总进球-0.060；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第70场 DR Congo—Uzbekistan
+
+- 结论：主胜，参考比分 1-0。
+- 主要因素：FIFA排名强度差修正=+30；休息与旅行主队修正-0.024；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第71场 Algeria—Austria
+
+- 结论：客胜，参考比分 0-1。
+- 主要因素：FIFA排名强度差修正=-30；休息与旅行主队修正-0.031；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+
+### 第72场 Jordan—Argentina
+
+- 结论：客胜，参考比分 0-2。
+- 主要因素：FIFA排名强度差修正=-465；休息与旅行主队修正-0.041；天气压低总进球-0.060；战意依据=standings_snapshot_2026-06-18_dynamic_refresh_required
+- 限制：裁判任命待公布；尚未接入带时间戳的市场赔率；最终首发需赛前刷新
+

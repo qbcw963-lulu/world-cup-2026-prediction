@@ -12,7 +12,7 @@ Important:
 - Group-stage broadcast times are recorded in US Eastern Time (`ET`) where available.
 - Blank early group-stage times mean the result and venue were verified, but an exact kick-off time was not retained in the cited schedule snapshot.
 - Knockout-stage times are local stadium times with explicit UTC offsets.
-- Match 24 (Uzbekistan vs Colombia) was live or not yet final when the snapshot was collected. Group K standings therefore show those teams with zero matches played.
+- Match 24 (Uzbekistan vs Colombia) was later updated to its final 1–2 result.
 - Standings are a point-in-time snapshot and will change after every completed group match.
 - Knockout participants are placeholders until the group stage determines the qualifiers.
 

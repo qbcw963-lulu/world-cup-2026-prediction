@@ -1,0 +1,27 @@
+{
+  "version": "0.1.0",
+  "generatedFor": "2026 FIFA World Cup",
+  "maxGoals": 8,
+  "baseGoalsPerTeam": 1.32,
+  "ratingScale": 420,
+  "drawInflation": 1.08,
+  "homeAdvantages": {
+    "Mexico": 0.18,
+    "Canada": 0.16,
+    "United States": 0.16,
+    "default": 0
+  },
+  "adjustmentLimits": {
+    "lineup": 0.22,
+    "weather": 0.12,
+    "motivation": 0.12,
+    "referee": 0.08,
+    "rest": 0.08
+  },
+  "upsetThresholds": {
+    "major": 0.2,
+    "moderate": 0.3,
+    "minor": 0.4
+  },
+  "handicapLines": [-1.5, -1, -0.5, 0, 0.5, 1, 1.5]
+}

@@ -1,105 +1,105 @@
-match_id,stage,group,date,time,time_zone,home,away,home_score,away_score,status,venue,city
-1,Group stage,A,2026-06-11,15:00,ET,Mexico,South Africa,2,0,finished,Estadio Azteca,Mexico City
-2,Group stage,A,2026-06-11,22:00,ET,South Korea,Czechia,2,1,finished,Estadio Akron,Guadalajara
-3,Group stage,B,2026-06-12,,ET,Canada,Bosnia and Herzegovina,1,1,finished,BMO Field,Toronto
-4,Group stage,D,2026-06-12,,ET,United States,Paraguay,4,1,finished,SoFi Stadium,Inglewood
-5,Group stage,B,2026-06-13,,ET,Qatar,Switzerland,1,1,finished,Levi's Stadium,Santa Clara
-6,Group stage,C,2026-06-13,,ET,Brazil,Morocco,1,1,finished,MetLife Stadium,East Rutherford
-7,Group stage,C,2026-06-13,,ET,Scotland,Haiti,1,0,finished,Gillette Stadium,Foxborough
-8,Group stage,D,2026-06-14,,ET,Australia,Türkiye,2,0,finished,BC Place,Vancouver
-9,Group stage,E,2026-06-14,,ET,Germany,Curaçao,7,1,finished,NRG Stadium,Houston
-10,Group stage,F,2026-06-14,,ET,Netherlands,Japan,2,2,finished,AT&T Stadium,Arlington
-11,Group stage,E,2026-06-14,,ET,Ivory Coast,Ecuador,1,0,finished,Lincoln Financial Field,Philadelphia
-12,Group stage,F,2026-06-14,,ET,Sweden,Tunisia,5,1,finished,Estadio BBVA,Guadalupe
-13,Group stage,H,2026-06-15,,ET,Spain,Cabo Verde,0,0,finished,Mercedes-Benz Stadium,Atlanta
-14,Group stage,G,2026-06-15,,ET,Belgium,Egypt,1,1,finished,Lumen Field,Seattle
-15,Group stage,H,2026-06-15,,ET,Saudi Arabia,Uruguay,1,1,finished,Hard Rock Stadium,Miami Gardens
-16,Group stage,G,2026-06-15,,ET,Iran,New Zealand,2,2,finished,SoFi Stadium,Inglewood
-17,Group stage,I,2026-06-16,,ET,France,Senegal,3,1,finished,MetLife Stadium,East Rutherford
-18,Group stage,I,2026-06-16,,ET,Norway,Iraq,4,1,finished,Gillette Stadium,Foxborough
-19,Group stage,J,2026-06-16,,ET,Argentina,Algeria,3,0,finished,Arrowhead Stadium,Kansas City
-20,Group stage,J,2026-06-17,,ET,Austria,Jordan,3,1,finished,Levi's Stadium,Santa Clara
-21,Group stage,K,2026-06-17,,ET,Portugal,DR Congo,1,1,finished,NRG Stadium,Houston
-22,Group stage,L,2026-06-17,,ET,England,Croatia,4,2,finished,AT&T Stadium,Arlington
-23,Group stage,L,2026-06-17,,ET,Ghana,Panama,1,0,finished,BMO Field,Toronto
-24,Group stage,K,2026-06-17,22:00,ET,Uzbekistan,Colombia,,,live_or_pending,Estadio Azteca,Mexico City
-25,Group stage,A,2026-06-18,12:00,ET,Czechia,South Africa,,,scheduled,Mercedes-Benz Stadium,Atlanta
-26,Group stage,B,2026-06-18,15:00,ET,Switzerland,Bosnia and Herzegovina,,,scheduled,SoFi Stadium,Inglewood
-27,Group stage,B,2026-06-18,18:00,ET,Canada,Qatar,,,scheduled,BC Place,Vancouver
-28,Group stage,A,2026-06-18,21:00,ET,Mexico,South Korea,,,scheduled,Estadio Akron,Guadalajara
-29,Group stage,D,2026-06-19,15:00,ET,United States,Australia,,,scheduled,Lumen Field,Seattle
-30,Group stage,C,2026-06-19,18:00,ET,Scotland,Morocco,,,scheduled,Gillette Stadium,Foxborough
-31,Group stage,C,2026-06-19,20:30,ET,Brazil,Haiti,,,scheduled,Lincoln Financial Field,Philadelphia
-32,Group stage,D,2026-06-19,23:00,ET,Türkiye,Paraguay,,,scheduled,Levi's Stadium,Santa Clara
-33,Group stage,F,2026-06-20,13:00,ET,Netherlands,Sweden,,,scheduled,NRG Stadium,Houston
-34,Group stage,E,2026-06-20,16:00,ET,Germany,Ivory Coast,,,scheduled,BMO Field,Toronto
-35,Group stage,E,2026-06-20,20:00,ET,Ecuador,Curaçao,,,scheduled,Arrowhead Stadium,Kansas City
-36,Group stage,F,2026-06-21,00:00,ET,Tunisia,Japan,,,scheduled,Estadio BBVA,Guadalupe
-37,Group stage,H,2026-06-21,12:00,ET,Spain,Saudi Arabia,,,scheduled,Mercedes-Benz Stadium,Atlanta
-38,Group stage,G,2026-06-21,15:00,ET,Belgium,Iran,,,scheduled,SoFi Stadium,Inglewood
-39,Group stage,H,2026-06-21,18:00,ET,Uruguay,Cabo Verde,,,scheduled,Hard Rock Stadium,Miami Gardens
-40,Group stage,G,2026-06-21,21:00,ET,New Zealand,Egypt,,,scheduled,BC Place,Vancouver
-41,Group stage,J,2026-06-22,13:00,ET,Argentina,Austria,,,scheduled,AT&T Stadium,Arlington
-42,Group stage,I,2026-06-22,17:00,ET,France,Iraq,,,scheduled,Lincoln Financial Field,Philadelphia
-43,Group stage,I,2026-06-22,20:00,ET,Norway,Senegal,,,scheduled,MetLife Stadium,East Rutherford
-44,Group stage,J,2026-06-22,23:00,ET,Jordan,Algeria,,,scheduled,Levi's Stadium,Santa Clara
-45,Group stage,K,2026-06-23,13:00,ET,Portugal,Uzbekistan,,,scheduled,NRG Stadium,Houston
-46,Group stage,L,2026-06-23,16:00,ET,England,Ghana,,,scheduled,Gillette Stadium,Foxborough
-47,Group stage,L,2026-06-23,19:00,ET,Panama,Croatia,,,scheduled,BMO Field,Toronto
-48,Group stage,K,2026-06-23,22:00,ET,Colombia,DR Congo,,,scheduled,Estadio Akron,Guadalajara
-49,Group stage,B,2026-06-24,15:00,ET,Switzerland,Canada,,,scheduled,BC Place,Vancouver
-50,Group stage,B,2026-06-24,15:00,ET,Bosnia and Herzegovina,Qatar,,,scheduled,Lumen Field,Seattle
-51,Group stage,C,2026-06-24,18:00,ET,Morocco,Haiti,,,scheduled,Mercedes-Benz Stadium,Atlanta
-52,Group stage,C,2026-06-24,18:00,ET,Scotland,Brazil,,,scheduled,Hard Rock Stadium,Miami Gardens
-53,Group stage,A,2026-06-24,21:00,ET,South Africa,South Korea,,,scheduled,Estadio BBVA,Guadalupe
-54,Group stage,A,2026-06-24,21:00,ET,Czechia,Mexico,,,scheduled,Estadio Azteca,Mexico City
-55,Group stage,E,2026-06-25,16:00,ET,Curaçao,Ivory Coast,,,scheduled,Lincoln Financial Field,Philadelphia
-56,Group stage,E,2026-06-25,16:00,ET,Ecuador,Germany,,,scheduled,MetLife Stadium,East Rutherford
-57,Group stage,F,2026-06-25,19:00,ET,Tunisia,Netherlands,,,scheduled,Arrowhead Stadium,Kansas City
-58,Group stage,F,2026-06-25,19:00,ET,Japan,Sweden,,,scheduled,AT&T Stadium,Arlington
-59,Group stage,D,2026-06-25,22:00,ET,Türkiye,United States,,,scheduled,SoFi Stadium,Inglewood
-60,Group stage,D,2026-06-25,22:00,ET,Paraguay,Australia,,,scheduled,Levi's Stadium,Santa Clara
-61,Group stage,I,2026-06-26,15:00,ET,Norway,France,,,scheduled,Gillette Stadium,Foxborough
-62,Group stage,I,2026-06-26,15:00,ET,Senegal,Iraq,,,scheduled,BMO Field,Toronto
-63,Group stage,H,2026-06-26,20:00,ET,Cabo Verde,Saudi Arabia,,,scheduled,NRG Stadium,Houston
-64,Group stage,H,2026-06-26,20:00,ET,Uruguay,Spain,,,scheduled,Estadio Akron,Guadalajara
-65,Group stage,G,2026-06-26,23:00,ET,New Zealand,Belgium,,,scheduled,BC Place,Vancouver
-66,Group stage,G,2026-06-26,23:00,ET,Egypt,Iran,,,scheduled,Lumen Field,Seattle
-67,Group stage,L,2026-06-27,17:00,ET,Panama,England,,,scheduled,MetLife Stadium,East Rutherford
-68,Group stage,L,2026-06-27,17:00,ET,Croatia,Ghana,,,scheduled,Lincoln Financial Field,Philadelphia
-69,Group stage,K,2026-06-27,19:30,ET,Colombia,Portugal,,,scheduled,Hard Rock Stadium,Miami Gardens
-70,Group stage,K,2026-06-27,19:30,ET,DR Congo,Uzbekistan,,,scheduled,Mercedes-Benz Stadium,Atlanta
-71,Group stage,J,2026-06-27,22:00,ET,Algeria,Austria,,,scheduled,Arrowhead Stadium,Kansas City
-72,Group stage,J,2026-06-27,22:00,ET,Jordan,Argentina,,,scheduled,AT&T Stadium,Arlington
-73,Round of 32,,2026-06-28,12:00,UTC-7,Runner-up Group A,Runner-up Group B,,,scheduled,SoFi Stadium,Inglewood
-74,Round of 32,,2026-06-29,16:30,UTC-4,Winner Group E,Best third Group A/B/C/D/F,,,scheduled,Gillette Stadium,Foxborough
-75,Round of 32,,2026-06-29,19:00,UTC-6,Winner Group F,Runner-up Group C,,,scheduled,Estadio BBVA,Guadalupe
-76,Round of 32,,2026-06-29,12:00,UTC-5,Winner Group C,Runner-up Group F,,,scheduled,NRG Stadium,Houston
-77,Round of 32,,2026-06-30,17:00,UTC-4,Winner Group I,Best third Group C/D/F/G/H,,,scheduled,MetLife Stadium,East Rutherford
-78,Round of 32,,2026-06-30,12:00,UTC-5,Runner-up Group E,Runner-up Group I,,,scheduled,AT&T Stadium,Arlington
-79,Round of 32,,2026-06-30,19:00,UTC-6,Winner Group A,Best third Group C/E/F/H/I,,,scheduled,Estadio Azteca,Mexico City
-80,Round of 32,,2026-07-01,12:00,UTC-4,Winner Group L,Best third Group E/H/I/J/K,,,scheduled,Mercedes-Benz Stadium,Atlanta
-81,Round of 32,,2026-07-01,17:00,UTC-7,Winner Group D,Best third Group B/E/F/I/J,,,scheduled,Levi's Stadium,Santa Clara
-82,Round of 32,,2026-07-01,13:00,UTC-7,Winner Group G,Best third Group A/E/H/I/J,,,scheduled,Lumen Field,Seattle
-83,Round of 32,,2026-07-02,19:00,UTC-4,Runner-up Group K,Runner-up Group L,,,scheduled,BMO Field,Toronto
-84,Round of 32,,2026-07-02,12:00,UTC-7,Winner Group H,Runner-up Group J,,,scheduled,SoFi Stadium,Inglewood
-85,Round of 32,,2026-07-02,20:00,UTC-7,Winner Group B,Best third Group E/F/G/I/J,,,scheduled,BC Place,Vancouver
-86,Round of 32,,2026-07-03,18:00,UTC-4,Winner Group J,Runner-up Group H,,,scheduled,Hard Rock Stadium,Miami Gardens
-87,Round of 32,,2026-07-03,20:30,UTC-5,Winner Group K,Best third Group D/E/I/J/L,,,scheduled,Arrowhead Stadium,Kansas City
-88,Round of 32,,2026-07-03,13:00,UTC-5,Runner-up Group D,Runner-up Group G,,,scheduled,AT&T Stadium,Arlington
-89,Round of 16,,2026-07-04,17:00,UTC-4,Winner Match 74,Winner Match 77,,,scheduled,Lincoln Financial Field,Philadelphia
-90,Round of 16,,2026-07-04,12:00,UTC-5,Winner Match 73,Winner Match 75,,,scheduled,NRG Stadium,Houston
-91,Round of 16,,2026-07-05,16:00,UTC-4,Winner Match 76,Winner Match 78,,,scheduled,MetLife Stadium,East Rutherford
-92,Round of 16,,2026-07-05,18:00,UTC-6,Winner Match 79,Winner Match 80,,,scheduled,Estadio Azteca,Mexico City
-93,Round of 16,,2026-07-06,14:00,UTC-5,Winner Match 83,Winner Match 84,,,scheduled,AT&T Stadium,Arlington
-94,Round of 16,,2026-07-06,17:00,UTC-7,Winner Match 81,Winner Match 82,,,scheduled,Lumen Field,Seattle
-95,Round of 16,,2026-07-07,12:00,UTC-4,Winner Match 86,Winner Match 88,,,scheduled,Mercedes-Benz Stadium,Atlanta
-96,Round of 16,,2026-07-07,13:00,UTC-7,Winner Match 85,Winner Match 87,,,scheduled,BC Place,Vancouver
-97,Quarterfinal,,2026-07-09,16:00,UTC-4,Winner Match 89,Winner Match 90,,,scheduled,Gillette Stadium,Foxborough
-98,Quarterfinal,,2026-07-10,12:00,UTC-7,Winner Match 93,Winner Match 94,,,scheduled,SoFi Stadium,Inglewood
-99,Quarterfinal,,2026-07-11,17:00,UTC-4,Winner Match 91,Winner Match 92,,,scheduled,Hard Rock Stadium,Miami Gardens
-100,Quarterfinal,,2026-07-11,20:00,UTC-5,Winner Match 95,Winner Match 96,,,scheduled,Arrowhead Stadium,Kansas City
-101,Semifinal,,2026-07-14,14:00,UTC-5,Winner Match 97,Winner Match 98,,,scheduled,AT&T Stadium,Arlington
-102,Semifinal,,2026-07-15,15:00,UTC-4,Winner Match 99,Winner Match 100,,,scheduled,Mercedes-Benz Stadium,Atlanta
-103,Third-place match,,2026-07-18,17:00,UTC-4,Loser Match 101,Loser Match 102,,,scheduled,Hard Rock Stadium,Miami Gardens
-104,Final,,2026-07-19,15:00,UTC-4,Winner Match 101,Winner Match 102,,,scheduled,MetLife Stadium,East Rutherford
+﻿"match_id","stage","group","date","time","time_zone","home","away","home_score","away_score","status","venue","city"
+"1","Group stage","A","2026-06-11","15:00","ET","Mexico","South Africa","2","0","finished","Estadio Azteca","Mexico City"
+"2","Group stage","A","2026-06-11","22:00","ET","South Korea","Czechia","2","1","finished","Estadio Akron","Guadalajara"
+"3","Group stage","B","2026-06-12","","ET","Canada","Bosnia and Herzegovina","1","1","finished","BMO Field","Toronto"
+"4","Group stage","D","2026-06-12","","ET","United States","Paraguay","4","1","finished","SoFi Stadium","Inglewood"
+"5","Group stage","B","2026-06-13","","ET","Qatar","Switzerland","1","1","finished","Levi's Stadium","Santa Clara"
+"6","Group stage","C","2026-06-13","","ET","Brazil","Morocco","1","1","finished","MetLife Stadium","East Rutherford"
+"7","Group stage","C","2026-06-13","","ET","Scotland","Haiti","1","0","finished","Gillette Stadium","Foxborough"
+"8","Group stage","D","2026-06-14","","ET","Australia","Türkiye","2","0","finished","BC Place","Vancouver"
+"9","Group stage","E","2026-06-14","","ET","Germany","Curaçao","7","1","finished","NRG Stadium","Houston"
+"10","Group stage","F","2026-06-14","","ET","Netherlands","Japan","2","2","finished","AT&T Stadium","Arlington"
+"11","Group stage","E","2026-06-14","","ET","Ivory Coast","Ecuador","1","0","finished","Lincoln Financial Field","Philadelphia"
+"12","Group stage","F","2026-06-14","","ET","Sweden","Tunisia","5","1","finished","Estadio BBVA","Guadalupe"
+"13","Group stage","H","2026-06-15","","ET","Spain","Cabo Verde","0","0","finished","Mercedes-Benz Stadium","Atlanta"
+"14","Group stage","G","2026-06-15","","ET","Belgium","Egypt","1","1","finished","Lumen Field","Seattle"
+"15","Group stage","H","2026-06-15","","ET","Saudi Arabia","Uruguay","1","1","finished","Hard Rock Stadium","Miami Gardens"
+"16","Group stage","G","2026-06-15","","ET","Iran","New Zealand","2","2","finished","SoFi Stadium","Inglewood"
+"17","Group stage","I","2026-06-16","","ET","France","Senegal","3","1","finished","MetLife Stadium","East Rutherford"
+"18","Group stage","I","2026-06-16","","ET","Norway","Iraq","4","1","finished","Gillette Stadium","Foxborough"
+"19","Group stage","J","2026-06-16","","ET","Argentina","Algeria","3","0","finished","Arrowhead Stadium","Kansas City"
+"20","Group stage","J","2026-06-17","","ET","Austria","Jordan","3","1","finished","Levi's Stadium","Santa Clara"
+"21","Group stage","K","2026-06-17","","ET","Portugal","DR Congo","1","1","finished","NRG Stadium","Houston"
+"22","Group stage","L","2026-06-17","","ET","England","Croatia","4","2","finished","AT&T Stadium","Arlington"
+"23","Group stage","L","2026-06-17","","ET","Ghana","Panama","1","0","finished","BMO Field","Toronto"
+"24","Group stage","K","2026-06-17","22:00","ET","Uzbekistan","Colombia","1","2","finished","Estadio Azteca","Mexico City"
+"25","Group stage","A","2026-06-18","12:00","ET","Czechia","South Africa","","","scheduled","Mercedes-Benz Stadium","Atlanta"
+"26","Group stage","B","2026-06-18","15:00","ET","Switzerland","Bosnia and Herzegovina","","","scheduled","SoFi Stadium","Inglewood"
+"27","Group stage","B","2026-06-18","18:00","ET","Canada","Qatar","","","scheduled","BC Place","Vancouver"
+"28","Group stage","A","2026-06-18","21:00","ET","Mexico","South Korea","","","scheduled","Estadio Akron","Guadalajara"
+"29","Group stage","D","2026-06-19","15:00","ET","United States","Australia","","","scheduled","Lumen Field","Seattle"
+"30","Group stage","C","2026-06-19","18:00","ET","Scotland","Morocco","","","scheduled","Gillette Stadium","Foxborough"
+"31","Group stage","C","2026-06-19","20:30","ET","Brazil","Haiti","","","scheduled","Lincoln Financial Field","Philadelphia"
+"32","Group stage","D","2026-06-19","23:00","ET","Türkiye","Paraguay","","","scheduled","Levi's Stadium","Santa Clara"
+"33","Group stage","F","2026-06-20","13:00","ET","Netherlands","Sweden","","","scheduled","NRG Stadium","Houston"
+"34","Group stage","E","2026-06-20","16:00","ET","Germany","Ivory Coast","","","scheduled","BMO Field","Toronto"
+"35","Group stage","E","2026-06-20","20:00","ET","Ecuador","Curaçao","","","scheduled","Arrowhead Stadium","Kansas City"
+"36","Group stage","F","2026-06-21","00:00","ET","Tunisia","Japan","","","scheduled","Estadio BBVA","Guadalupe"
+"37","Group stage","H","2026-06-21","12:00","ET","Spain","Saudi Arabia","","","scheduled","Mercedes-Benz Stadium","Atlanta"
+"38","Group stage","G","2026-06-21","15:00","ET","Belgium","Iran","","","scheduled","SoFi Stadium","Inglewood"
+"39","Group stage","H","2026-06-21","18:00","ET","Uruguay","Cabo Verde","","","scheduled","Hard Rock Stadium","Miami Gardens"
+"40","Group stage","G","2026-06-21","21:00","ET","New Zealand","Egypt","","","scheduled","BC Place","Vancouver"
+"41","Group stage","J","2026-06-22","13:00","ET","Argentina","Austria","","","scheduled","AT&T Stadium","Arlington"
+"42","Group stage","I","2026-06-22","17:00","ET","France","Iraq","","","scheduled","Lincoln Financial Field","Philadelphia"
+"43","Group stage","I","2026-06-22","20:00","ET","Norway","Senegal","","","scheduled","MetLife Stadium","East Rutherford"
+"44","Group stage","J","2026-06-22","23:00","ET","Jordan","Algeria","","","scheduled","Levi's Stadium","Santa Clara"
+"45","Group stage","K","2026-06-23","13:00","ET","Portugal","Uzbekistan","","","scheduled","NRG Stadium","Houston"
+"46","Group stage","L","2026-06-23","16:00","ET","England","Ghana","","","scheduled","Gillette Stadium","Foxborough"
+"47","Group stage","L","2026-06-23","19:00","ET","Panama","Croatia","","","scheduled","BMO Field","Toronto"
+"48","Group stage","K","2026-06-23","22:00","ET","Colombia","DR Congo","","","scheduled","Estadio Akron","Guadalajara"
+"49","Group stage","B","2026-06-24","15:00","ET","Switzerland","Canada","","","scheduled","BC Place","Vancouver"
+"50","Group stage","B","2026-06-24","15:00","ET","Bosnia and Herzegovina","Qatar","","","scheduled","Lumen Field","Seattle"
+"51","Group stage","C","2026-06-24","18:00","ET","Morocco","Haiti","","","scheduled","Mercedes-Benz Stadium","Atlanta"
+"52","Group stage","C","2026-06-24","18:00","ET","Scotland","Brazil","","","scheduled","Hard Rock Stadium","Miami Gardens"
+"53","Group stage","A","2026-06-24","21:00","ET","South Africa","South Korea","","","scheduled","Estadio BBVA","Guadalupe"
+"54","Group stage","A","2026-06-24","21:00","ET","Czechia","Mexico","","","scheduled","Estadio Azteca","Mexico City"
+"55","Group stage","E","2026-06-25","16:00","ET","Curaçao","Ivory Coast","","","scheduled","Lincoln Financial Field","Philadelphia"
+"56","Group stage","E","2026-06-25","16:00","ET","Ecuador","Germany","","","scheduled","MetLife Stadium","East Rutherford"
+"57","Group stage","F","2026-06-25","19:00","ET","Tunisia","Netherlands","","","scheduled","Arrowhead Stadium","Kansas City"
+"58","Group stage","F","2026-06-25","19:00","ET","Japan","Sweden","","","scheduled","AT&T Stadium","Arlington"
+"59","Group stage","D","2026-06-25","22:00","ET","Türkiye","United States","","","scheduled","SoFi Stadium","Inglewood"
+"60","Group stage","D","2026-06-25","22:00","ET","Paraguay","Australia","","","scheduled","Levi's Stadium","Santa Clara"
+"61","Group stage","I","2026-06-26","15:00","ET","Norway","France","","","scheduled","Gillette Stadium","Foxborough"
+"62","Group stage","I","2026-06-26","15:00","ET","Senegal","Iraq","","","scheduled","BMO Field","Toronto"
+"63","Group stage","H","2026-06-26","20:00","ET","Cabo Verde","Saudi Arabia","","","scheduled","NRG Stadium","Houston"
+"64","Group stage","H","2026-06-26","20:00","ET","Uruguay","Spain","","","scheduled","Estadio Akron","Guadalajara"
+"65","Group stage","G","2026-06-26","23:00","ET","New Zealand","Belgium","","","scheduled","BC Place","Vancouver"
+"66","Group stage","G","2026-06-26","23:00","ET","Egypt","Iran","","","scheduled","Lumen Field","Seattle"
+"67","Group stage","L","2026-06-27","17:00","ET","Panama","England","","","scheduled","MetLife Stadium","East Rutherford"
+"68","Group stage","L","2026-06-27","17:00","ET","Croatia","Ghana","","","scheduled","Lincoln Financial Field","Philadelphia"
+"69","Group stage","K","2026-06-27","19:30","ET","Colombia","Portugal","","","scheduled","Hard Rock Stadium","Miami Gardens"
+"70","Group stage","K","2026-06-27","19:30","ET","DR Congo","Uzbekistan","","","scheduled","Mercedes-Benz Stadium","Atlanta"
+"71","Group stage","J","2026-06-27","22:00","ET","Algeria","Austria","","","scheduled","Arrowhead Stadium","Kansas City"
+"72","Group stage","J","2026-06-27","22:00","ET","Jordan","Argentina","","","scheduled","AT&T Stadium","Arlington"
+"73","Round of 32","","2026-06-28","12:00","UTC-7","Runner-up Group A","Runner-up Group B","","","scheduled","SoFi Stadium","Inglewood"
+"74","Round of 32","","2026-06-29","16:30","UTC-4","Winner Group E","Best third Group A/B/C/D/F","","","scheduled","Gillette Stadium","Foxborough"
+"75","Round of 32","","2026-06-29","19:00","UTC-6","Winner Group F","Runner-up Group C","","","scheduled","Estadio BBVA","Guadalupe"
+"76","Round of 32","","2026-06-29","12:00","UTC-5","Winner Group C","Runner-up Group F","","","scheduled","NRG Stadium","Houston"
+"77","Round of 32","","2026-06-30","17:00","UTC-4","Winner Group I","Best third Group C/D/F/G/H","","","scheduled","MetLife Stadium","East Rutherford"
+"78","Round of 32","","2026-06-30","12:00","UTC-5","Runner-up Group E","Runner-up Group I","","","scheduled","AT&T Stadium","Arlington"
+"79","Round of 32","","2026-06-30","19:00","UTC-6","Winner Group A","Best third Group C/E/F/H/I","","","scheduled","Estadio Azteca","Mexico City"
+"80","Round of 32","","2026-07-01","12:00","UTC-4","Winner Group L","Best third Group E/H/I/J/K","","","scheduled","Mercedes-Benz Stadium","Atlanta"
+"81","Round of 32","","2026-07-01","17:00","UTC-7","Winner Group D","Best third Group B/E/F/I/J","","","scheduled","Levi's Stadium","Santa Clara"
+"82","Round of 32","","2026-07-01","13:00","UTC-7","Winner Group G","Best third Group A/E/H/I/J","","","scheduled","Lumen Field","Seattle"
+"83","Round of 32","","2026-07-02","19:00","UTC-4","Runner-up Group K","Runner-up Group L","","","scheduled","BMO Field","Toronto"
+"84","Round of 32","","2026-07-02","12:00","UTC-7","Winner Group H","Runner-up Group J","","","scheduled","SoFi Stadium","Inglewood"
+"85","Round of 32","","2026-07-02","20:00","UTC-7","Winner Group B","Best third Group E/F/G/I/J","","","scheduled","BC Place","Vancouver"
+"86","Round of 32","","2026-07-03","18:00","UTC-4","Winner Group J","Runner-up Group H","","","scheduled","Hard Rock Stadium","Miami Gardens"
+"87","Round of 32","","2026-07-03","20:30","UTC-5","Winner Group K","Best third Group D/E/I/J/L","","","scheduled","Arrowhead Stadium","Kansas City"
+"88","Round of 32","","2026-07-03","13:00","UTC-5","Runner-up Group D","Runner-up Group G","","","scheduled","AT&T Stadium","Arlington"
+"89","Round of 16","","2026-07-04","17:00","UTC-4","Winner Match 74","Winner Match 77","","","scheduled","Lincoln Financial Field","Philadelphia"
+"90","Round of 16","","2026-07-04","12:00","UTC-5","Winner Match 73","Winner Match 75","","","scheduled","NRG Stadium","Houston"
+"91","Round of 16","","2026-07-05","16:00","UTC-4","Winner Match 76","Winner Match 78","","","scheduled","MetLife Stadium","East Rutherford"
+"92","Round of 16","","2026-07-05","18:00","UTC-6","Winner Match 79","Winner Match 80","","","scheduled","Estadio Azteca","Mexico City"
+"93","Round of 16","","2026-07-06","14:00","UTC-5","Winner Match 83","Winner Match 84","","","scheduled","AT&T Stadium","Arlington"
+"94","Round of 16","","2026-07-06","17:00","UTC-7","Winner Match 81","Winner Match 82","","","scheduled","Lumen Field","Seattle"
+"95","Round of 16","","2026-07-07","12:00","UTC-4","Winner Match 86","Winner Match 88","","","scheduled","Mercedes-Benz Stadium","Atlanta"
+"96","Round of 16","","2026-07-07","13:00","UTC-7","Winner Match 85","Winner Match 87","","","scheduled","BC Place","Vancouver"
+"97","Quarterfinal","","2026-07-09","16:00","UTC-4","Winner Match 89","Winner Match 90","","","scheduled","Gillette Stadium","Foxborough"
+"98","Quarterfinal","","2026-07-10","12:00","UTC-7","Winner Match 93","Winner Match 94","","","scheduled","SoFi Stadium","Inglewood"
+"99","Quarterfinal","","2026-07-11","17:00","UTC-4","Winner Match 91","Winner Match 92","","","scheduled","Hard Rock Stadium","Miami Gardens"
+"100","Quarterfinal","","2026-07-11","20:00","UTC-5","Winner Match 95","Winner Match 96","","","scheduled","Arrowhead Stadium","Kansas City"
+"101","Semifinal","","2026-07-14","14:00","UTC-5","Winner Match 97","Winner Match 98","","","scheduled","AT&T Stadium","Arlington"
+"102","Semifinal","","2026-07-15","15:00","UTC-4","Winner Match 99","Winner Match 100","","","scheduled","Mercedes-Benz Stadium","Atlanta"
+"103","Third-place match","","2026-07-18","17:00","UTC-4","Loser Match 101","Loser Match 102","","","scheduled","Hard Rock Stadium","Miami Gardens"
+"104","Final","","2026-07-19","15:00","UTC-4","Winner Match 101","Winner Match 102","","","scheduled","MetLife Stadium","East Rutherford"
