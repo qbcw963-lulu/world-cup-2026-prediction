@@ -45,6 +45,15 @@ $env:THE_ODDS_API_KEY="your-key"
 npm run fetch:odds
 ```
 
+DraftKings 官方公开文章中的开盘赔率无需密钥：
+
+```powershell
+npm run fetch:odds:draftkings
+```
+
+该来源属于单一博彩公司公开快照，不能当作多公司市场共识。官网动态盘口可能因
+地区、时间或登录状态显示为空；采集器不会绕过这些限制。
+
 ## 模型限制
 
 - 让球线是模型生成线，并非中国体育彩票官方让球线。

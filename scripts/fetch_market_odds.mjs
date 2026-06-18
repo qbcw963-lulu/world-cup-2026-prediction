@@ -64,17 +64,30 @@ for (const event of events) {
       match_id: match.match_id,
       captured_at: capturedAt,
       bookmaker: bookmaker.title,
+      snapshot_type: 'live_api_snapshot',
+      home_american: '',
+      draw_american: '',
+      away_american: '',
       home_decimal: outcome(event.home_team),
       draw_decimal: market.outcomes.find((item) => normalize(item.name) === 'draw')?.price ?? '',
       away_decimal: outcome(event.away_team),
       asian_handicap_home_line: '',
       asian_handicap_home_decimal: '',
       asian_handicap_away_decimal: '',
+      extraction_confidence: 'licensed_api',
+      source_excerpt: '',
       source_url: 'https://the-odds-api.com/',
     });
   }
 }
 
-const headers = Object.keys(imported[0] ?? existing[0] ?? {});
+const headers = [
+  'match_id', 'captured_at', 'bookmaker', 'snapshot_type',
+  'home_american', 'draw_american', 'away_american',
+  'home_decimal', 'draw_decimal', 'away_decimal',
+  'asian_handicap_home_line', 'asian_handicap_home_decimal',
+  'asian_handicap_away_decimal', 'extraction_confidence',
+  'source_excerpt', 'source_url',
+];
 writeCsv(outputPath, headers, [...existing, ...imported]);
 console.log(`Imported ${imported.length} timestamped bookmaker snapshots.`);

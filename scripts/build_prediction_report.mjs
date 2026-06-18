@@ -37,6 +37,11 @@ for (const row of predictions) {
     '',
     `- 结论：${row.predicted_1x2_zh}，参考比分 ${row.predicted_score}。`,
     `- 主要因素：${row.key_factors}`,
+    row.market_bookmaker
+      ? `- 市场校准：${row.market_bookmaker}（${row.market_snapshot_at}），` +
+        `去水位概率 ${row.market_home_win_pct}% / ${row.market_draw_pct}% / ` +
+        `${row.market_away_win_pct}%，权重 ${row.market_weight_pct}%。`
+      : '- 市场校准：暂无完整三项官网赔率，权重 0%。',
     `- 限制：${row.limitations}`,
     '',
   );

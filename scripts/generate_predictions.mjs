@@ -8,8 +8,17 @@ const model = JSON.parse(fs.readFileSync(path.join(root, 'config', 'model.json')
 const schedule = readCsv(path.join(root, 'data', 'world_cup_2026_schedule_104_matches.csv'));
 const teams = readCsv(path.join(root, 'data', 'teams_2026.csv'));
 const contexts = readCsv(path.join(root, 'data', 'match_context_2026.csv'));
+const marketOdds = readCsv(path.join(root, 'data', 'market_odds_2026.csv'));
 const teamByName = new Map(teams.map((team) => [team.team, team]));
 const contextByMatch = new Map(contexts.map((context) => [context.match_id, context]));
+const marketByMatch = new Map();
+for (const row of marketOdds) {
+  if (!row.home_decimal || !row.draw_decimal || !row.away_decimal) continue;
+  const current = marketByMatch.get(row.match_id);
+  if (!current || new Date(row.captured_at) > new Date(current.captured_at)) {
+    marketByMatch.set(row.match_id, row);
+  }
+}
 
 function number(value, fallback = 0) {
   const parsed = Number(value);
@@ -115,6 +124,17 @@ function pct(value) {
   return (value * 100).toFixed(1);
 }
 
+function marketProbabilities(row) {
+  if (!row) return null;
+  const raw = {
+    H: 1 / Number(row.home_decimal),
+    D: 1 / Number(row.draw_decimal),
+    A: 1 / Number(row.away_decimal),
+  };
+  const total = raw.H + raw.D + raw.A;
+  return { H: raw.H / total, D: raw.D / total, A: raw.A / total };
+}
+
 const outcomeZh = { H: '主胜', D: '平局', A: '客胜' };
 const handicapZh = { H: '让胜', D: '让平', A: '让负' };
 const halfFullZh = {
@@ -132,7 +152,15 @@ for (const match of schedule.filter((item) => item.status === 'scheduled')) {
   const context = contextByMatch.get(match.match_id);
   const { homeXg, awayXg } = expectedGoals(home, away, context);
   const matrix = buildScoreMatrix(homeXg, awayXg);
-  const oneXTwo = aggregateOneXTwo(matrix);
+  const modelOneXTwo = aggregateOneXTwo(matrix);
+  const marketRow = marketByMatch.get(match.match_id);
+  const market = marketProbabilities(marketRow);
+  const marketWeight = market ? 0.25 : 0;
+  const oneXTwo = {
+    H: modelOneXTwo.H * (1 - marketWeight) + (market?.H ?? 0) * marketWeight,
+    D: modelOneXTwo.D * (1 - marketWeight) + (market?.D ?? 0) * marketWeight,
+    A: modelOneXTwo.A * (1 - marketWeight) + (market?.A ?? 0) * marketWeight,
+  };
   const topOutcome = Object.entries(oneXTwo).sort((a, b) => b[1] - a[1])[0][0];
   const topScore = [...matrix]
     .filter((score) => outcome(score.homeGoals, score.awayGoals) === topOutcome)
@@ -159,7 +187,7 @@ for (const match of schedule.filter((item) => item.status === 'scheduled')) {
     !context?.referee && '裁判任命待公布',
     context?.referee && !context?.referee_cards_per_match && '裁判历史量化样本待补',
     context?.weather_status !== 'open_meteo_forecast' && '天气超出可靠预报窗口',
-    '尚未接入带时间戳的市场赔率',
+    !market && '当前比赛尚无完整三项官网赔率快照',
     '最终首发需赛前刷新',
   ].filter(Boolean).join('；');
   const ratingGap = Number(home.strength_rating) - Number(away.strength_rating);
@@ -195,6 +223,15 @@ for (const match of schedule.filter((item) => item.status === 'scheduled')) {
     home_win_pct: pct(oneXTwo.H),
     draw_pct: pct(oneXTwo.D),
     away_win_pct: pct(oneXTwo.A),
+    model_home_win_pct: pct(modelOneXTwo.H),
+    model_draw_pct: pct(modelOneXTwo.D),
+    model_away_win_pct: pct(modelOneXTwo.A),
+    market_home_win_pct: market ? pct(market.H) : '',
+    market_draw_pct: market ? pct(market.D) : '',
+    market_away_win_pct: market ? pct(market.A) : '',
+    market_bookmaker: marketRow?.bookmaker ?? '',
+    market_snapshot_at: marketRow?.captured_at ?? '',
+    market_weight_pct: pct(marketWeight),
     predicted_1x2: topOutcome,
     predicted_1x2_zh: outcomeZh[topOutcome],
     predicted_score: `${topScore.homeGoals}-${topScore.awayGoals}`,
